@@ -1,0 +1,5 @@
+<img src="img/lavender-abend.jpg" alt="Lavendel bei Sonnenuntergang">
+<img src="img/flowers-schmetterling.jpg" alt="Blumen mit Schmetterling">
+<img src="img/lavendelfeld.jpg" alt="Lavendelfeld">
+<img src="img/lavendelblueten.jpg" alt="Lavendelblüten">
+<img src="img/provence.jpg" alt="Lavendelfeld in der Provence">
